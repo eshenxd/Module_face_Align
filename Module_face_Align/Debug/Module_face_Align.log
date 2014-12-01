@@ -1,0 +1,31 @@
+﻿生成启动时间为 12/1/2014 10:12:00 AM。
+     1>项目“C:\Users\旭东\Desktop\Module_face_Align\Module_face_Align\Module_face_Align.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\Module_face_Align.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         D:\software\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt testFile.cpp /D _CRT_SECURE_NO_WARNINGS 
+         testFile.cpp
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\software\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\旭东\Desktop\Module_face_Align\Debug\Module_face_Align.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Module_face_Align.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\旭东\Desktop\Module_face_Align\Debug\Module_face_Align.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\旭东\Desktop\Module_face_Align\Debug\Module_face_Align.lib" /MACHINE:X86 Debug\Module_face_Align.exe.embed.manifest.res
+         Debug\faceAlign.obj
+         Debug\faceDetect.obj
+         Debug\facePoint.obj
+         Debug\getFiles.obj
+         Debug\save_coordinate.obj
+         Debug\testFile.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Module_face_Align.exe.embed.manifest" /manifest Debug\Module_face_Align.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         Module_face_Align.vcxproj -> C:\Users\旭东\Desktop\Module_face_Align\Debug\Module_face_Align.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Module_face_Align.unsuccessfulbuild”。
+         正在对“Debug\Module_face_Align.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\旭东\Desktop\Module_face_Align\Module_face_Align\Module_face_Align.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.61
